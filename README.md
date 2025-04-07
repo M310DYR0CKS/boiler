@@ -28,6 +28,6 @@ If you experience issues or errors with Boiler, please report them in [issues](h
 Are there features or improvements you'd like to see in Boiler? Don't ask me to make them for you. Make it yourself! Fork this repo, make modifications to the software as you'd like, and then when you're done, make a pull request. If your additions are well-structured and beneficial, I will merge your fork with the main branch.
 
 # To-Do:
-- Explain NGINX proxy config
-- Come up with a better solution for attention tone detection (eventually)
+- Explain NGINX proxy config 
+- Come up with a better solution for attention tone detection (In the works) 
 - Circumvent overwrite of boiler.cfg and filters.cfg on re-running install.sh
